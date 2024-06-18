@@ -4,12 +4,12 @@
 <h3 align="center">✨ 박진희 ✨</h3>
 
 <div align="center">
-<p>
-  MBTI : INTJ
-  나이 : 32
-  핸드폰 : 010-7252-1570
-  email : parkjin@gmail.com
-</p>
+  <div>
+    <p>MBTI : INTJ</p>
+    <p>나이 : 32</p>
+    <p>핸드폰 : 010-7252-1570</p>
+    <p>email : parkjin@gmail.com</p>
+  </div>
 
 </div>
 
