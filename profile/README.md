@@ -6,6 +6,9 @@
 <div align="center">
 <p>
   MBTI : INTJ
+  나이 : 32
+  핸드폰 : 010-7252-1570
+  email : parkjin@gmail.com
 </p>
 
 </div>
