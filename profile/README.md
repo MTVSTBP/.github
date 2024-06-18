@@ -13,6 +13,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">✨ 임수연 ✨</h3>
 
 <div align="center">
@@ -25,6 +27,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">✨ 윤준수 ✨</h3>
 
 <div align="center">
@@ -36,7 +40,7 @@
   </div>
 
 </div>
-
+<br>
 <h3 align="center">✨ 최형석 ✨</h3>
 
 <div align="center">
@@ -48,7 +52,7 @@
   </div>
 
 </div>
-
+<br>
 <h3 align="center">✨ 이민재 ✨</h3>
 
 <div align="center">
@@ -60,6 +64,7 @@
   </div>
 
 </div>
+
 
 <!--
 
