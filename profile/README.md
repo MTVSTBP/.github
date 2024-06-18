@@ -13,42 +13,50 @@
 
 </div>
 
+<h3 align="center">✨ 임수연 ✨</h3>
+
 <div align="center">
   <div>
-    <p>MBTI : INTJ</p>
-    <p>나이 : 32</p>
-    <p>핸드폰 : 010-7252-1570</p>
-    <p>email : parkjin@gmail.com</p>
+    <p>MBTI : ESTP</p>
+    <p>나이 : 24</p>
+    <p>핸드폰 : 010-2636-3507</p>
+    <p>email : lsy1307@inha.edu</p>
   </div>
 
 </div>
 
+<h3 align="center">✨ 윤준수 ✨</h3>
+
 <div align="center">
   <div>
-    <p>MBTI : INTJ</p>
-    <p>나이 : 32</p>
-    <p>핸드폰 : 010-7252-1570</p>
-    <p>email : parkjin@gmail.com</p>
+    <p>MBTI : ISTP</p>
+    <p>나이 : 30</p>
+    <p>핸드폰 : 010-4312-1124</p>
+    <p>email : yunjs24@gmail.com</p>
   </div>
 
 </div>
 
+<h3 align="center">✨ 최형석 ✨</h3>
+
 <div align="center">
   <div>
-    <p>MBTI : INTJ</p>
-    <p>나이 : 32</p>
-    <p>핸드폰 : 010-7252-1570</p>
-    <p>email : parkjin@gmail.com</p>
+    <p>MBTI : ISFJ</p>
+    <p>나이 : 28</p>
+    <p>핸드폰 : 010-3945-5532</p>
+    <p>email : dzeko_8@naver.com</p>
   </div>
 
 </div>
 
+<h3 align="center">✨ 이민재 ✨</h3>
+
 <div align="center">
   <div>
     <p>MBTI : INTJ</p>
     <p>나이 : 32</p>
-    <p>핸드폰 : 010-7252-1570</p>
-    <p>email : parkjin@gmail.com</p>
+    <p>핸드폰 : 010-7297-2238</p>
+    <p>email : parousia0918@gmail.com</p>
   </div>
 
 </div>
