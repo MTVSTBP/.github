@@ -13,6 +13,46 @@
 
 </div>
 
+<div align="center">
+  <div>
+    <p>MBTI : INTJ</p>
+    <p>나이 : 32</p>
+    <p>핸드폰 : 010-7252-1570</p>
+    <p>email : parkjin@gmail.com</p>
+  </div>
+
+</div>
+
+<div align="center">
+  <div>
+    <p>MBTI : INTJ</p>
+    <p>나이 : 32</p>
+    <p>핸드폰 : 010-7252-1570</p>
+    <p>email : parkjin@gmail.com</p>
+  </div>
+
+</div>
+
+<div align="center">
+  <div>
+    <p>MBTI : INTJ</p>
+    <p>나이 : 32</p>
+    <p>핸드폰 : 010-7252-1570</p>
+    <p>email : parkjin@gmail.com</p>
+  </div>
+
+</div>
+
+<div align="center">
+  <div>
+    <p>MBTI : INTJ</p>
+    <p>나이 : 32</p>
+    <p>핸드폰 : 010-7252-1570</p>
+    <p>email : parkjin@gmail.com</p>
+  </div>
+
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
