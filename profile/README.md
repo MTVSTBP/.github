@@ -65,6 +65,18 @@
 
 </div>
 
+<h3 align="center">✨ 정예준 ✨</h3>
+
+<div align="center">
+  <div>
+    <p>MBTI : ESTJ</p>
+    <p>나이 : 26</p>
+    <p>핸드폰 : 010-7268-2643</p>
+    <p>email : jjyejun1@gmail.com</p>
+  </div>
+
+</div>
+
 
 <!--
 
